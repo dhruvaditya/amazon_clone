@@ -1,0 +1,1 @@
+import 'package:amazon_clone/utils/colors.dart';

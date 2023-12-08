@@ -1,0 +1,17 @@
+import 'package:flutter/material.dart';
+import 'package:amazon_clone/utils/colors.dart';
+ThemeData theme=ThemeData(
+  textTheme: TextTheme(
+    displayLarge: TextStyle(
+      color: Colors.black,
+      fontSize: 26,
+    ),
+    displayMedium: TextStyle(color: Colors.black,
+    fontSize: 24,),
+    displaySmall: TextStyle(color: Colors.black,fontSize: 22,),
+    bodyLarge: TextStyle(color: Colors.black,fontSize: 20,),
+    bodyMedium: TextStyle(color: Colors.black,fontSize: 18,),
+    bodySmall: TextStyle(color: Colors.black,fontSize: 16,),
+  )
+
+);
